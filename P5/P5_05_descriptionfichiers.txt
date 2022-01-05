@@ -1,0 +1,5 @@
+Description des fichier:
+P5_01_notebookanalyse : analyse des données, merge des tableaux et selection des premiers features
+P5_02_notebookmodelisation: analyse de modèle RFM Score, K-mean, DBSCAN et agglomerative clustering
+P5_03_notebookmodelmaintenance! modèle k-mean finale, fonction d'utilisation et modele de maintenance de l'algorithme
+P5_04_presentation: support pour presentation
